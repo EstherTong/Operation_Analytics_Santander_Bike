@@ -1,0 +1,57 @@
+﻿StationA,StationB,drivingTime_mean,drivingTime_std
+"Albert Gate, Hyde Park","Bayswater Road, Hyde Park",20,7
+"Albert Gate, Hyde Park","Hyde Park Corner, Hyde Park",7,2
+"Albert Gate, Hyde Park","Knightsbridge, Hyde Park",6,2
+"Albert Gate, Hyde Park","Park Lane , Hyde Park",14,4
+"Albert Gate, Hyde Park","Serpentine Car Park, Hyde Park",19,5
+"Albert Gate, Hyde Park","Triangle Car Park, Hyde Park",22,5
+"Albert Gate, Hyde Park","Wellington Arch, Hyde Park",8,3
+"Bayswater Road, Hyde Park","Albert Gate, Hyde Park",20,7
+"Bayswater Road, Hyde Park","Hyde Park Corner, Hyde Park",17,5
+"Bayswater Road, Hyde Park","Knightsbridge, Hyde Park",19,6
+"Bayswater Road, Hyde Park","Park Lane , Hyde Park",10,4
+"Bayswater Road, Hyde Park","Serpentine Car Park, Hyde Park",25,8
+"Bayswater Road, Hyde Park","Triangle Car Park, Hyde Park",23,6
+"Bayswater Road, Hyde Park","Wellington Arch, Hyde Park",16,4
+"Hyde Park Corner, Hyde Park","Albert Gate, Hyde Park",7,2
+"Hyde Park Corner, Hyde Park","Bayswater Road, Hyde Park",17,5
+"Hyde Park Corner, Hyde Park","Knightsbridge, Hyde Park",5,2
+"Hyde Park Corner, Hyde Park","Park Lane , Hyde Park",12,4
+"Hyde Park Corner, Hyde Park","Serpentine Car Park, Hyde Park",20,5
+"Hyde Park Corner, Hyde Park","Triangle Car Park, Hyde Park",22,6
+"Hyde Park Corner, Hyde Park","Wellington Arch, Hyde Park",5,1
+"Knightsbridge, Hyde Park","Albert Gate, Hyde Park",6,2
+"Knightsbridge, Hyde Park","Bayswater Road, Hyde Park",19,6
+"Knightsbridge, Hyde Park","Hyde Park Corner, Hyde Park",5,2
+"Knightsbridge, Hyde Park","Park Lane , Hyde Park",13,3
+"Knightsbridge, Hyde Park","Serpentine Car Park, Hyde Park",19,6
+"Knightsbridge, Hyde Park","Triangle Car Park, Hyde Park",20,5
+"Knightsbridge, Hyde Park","Wellington Arch, Hyde Park",6,1
+"Park Lane , Hyde Park","Albert Gate, Hyde Park",14,4
+"Park Lane , Hyde Park","Bayswater Road, Hyde Park",10,4
+"Park Lane , Hyde Park","Hyde Park Corner, Hyde Park",12,4
+"Park Lane , Hyde Park","Knightsbridge, Hyde Park",13,3
+"Park Lane , Hyde Park","Serpentine Car Park, Hyde Park",23,5
+"Park Lane , Hyde Park","Triangle Car Park, Hyde Park",24,6
+"Park Lane , Hyde Park","Wellington Arch, Hyde Park",13,4
+"Serpentine Car Park, Hyde Park","Albert Gate, Hyde Park",19,5
+"Serpentine Car Park, Hyde Park","Bayswater Road, Hyde Park",25,8
+"Serpentine Car Park, Hyde Park","Hyde Park Corner, Hyde Park",20,5
+"Serpentine Car Park, Hyde Park","Knightsbridge, Hyde Park",19,6
+"Serpentine Car Park, Hyde Park","Park Lane , Hyde Park",23,5
+"Serpentine Car Park, Hyde Park","Triangle Car Park, Hyde Park",4,1
+"Serpentine Car Park, Hyde Park","Wellington Arch, Hyde Park",20,4
+"Triangle Car Park, Hyde Park","Albert Gate, Hyde Park",22,5
+"Triangle Car Park, Hyde Park","Bayswater Road, Hyde Park",23,6
+"Triangle Car Park, Hyde Park","Hyde Park Corner, Hyde Park",22,6
+"Triangle Car Park, Hyde Park","Knightsbridge, Hyde Park",20,5
+"Triangle Car Park, Hyde Park","Park Lane , Hyde Park",24,6
+"Triangle Car Park, Hyde Park","Serpentine Car Park, Hyde Park",4,1
+"Triangle Car Park, Hyde Park","Wellington Arch, Hyde Park",22,6
+"Wellington Arch, Hyde Park","Albert Gate, Hyde Park",8,3
+"Wellington Arch, Hyde Park","Bayswater Road, Hyde Park",16,4
+"Wellington Arch, Hyde Park","Hyde Park Corner, Hyde Park",5,1
+"Wellington Arch, Hyde Park","Knightsbridge, Hyde Park",6,1
+"Wellington Arch, Hyde Park","Park Lane , Hyde Park",13,4
+"Wellington Arch, Hyde Park","Serpentine Car Park, Hyde Park",20,4
+"Wellington Arch, Hyde Park","Triangle Car Park, Hyde Park",22,6
